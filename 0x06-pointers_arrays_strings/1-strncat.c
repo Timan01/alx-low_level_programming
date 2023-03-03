@@ -5,7 +5,7 @@
  * @dest: the destination of the string
  * @src: the source of the string
  * @n: the length of the int
- * Return:char
+ * Return: pointer to the resulting string dest
  */
 char *_strncat(char *dest, char *src, int n)
 {
@@ -20,5 +20,5 @@ char *_strncat(char *dest, char *src, int n)
 		dest[i + j] = src[j];
 	}
 	dest[i + j] = '\0';
-	return (s);
+	return (dest);
 }
