@@ -1,8 +1,6 @@
 #ifndef MAIN_H
 #define MAIN_H
 
-#include <stdio.h>
-
 /*This was done by TIman*/
 
 int _putchat(char c);
