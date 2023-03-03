@@ -3,7 +3,7 @@
 
 #include <stdio.h>
 
-//This was done by TIman
+/*This was done by TIman*/
 
 int _putchat(char c);
 char *_strcat(char *dest, char *src);
