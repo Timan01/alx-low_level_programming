@@ -1,11 +1,13 @@
-#include "lists.h"
 #include <stdlib.h>
-#include <stdio.h>
 #include <string.h>
+#include <stdio.h>
+#include "lists.h"
 
 /**
- * print_list - prints all the elements of a list_t list
- * @h: pointer to head of the list
+ * print_list - check the code for Holberton School students.
+ * @h: name of the list
+ *
+ * work done by timan
  *
  * Return: the number of nodes.
  */
