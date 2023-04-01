@@ -10,8 +10,8 @@
  *
  * Return: value is i
  */
-int _strien(const char *s);
-{
+int _strlen(const char *s);
+{wq:
 	int i = 0;
 
 	while (s[i] != '\0')
